@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @this-is-shivani
+- 👀 I’m interested in ...Designing things; Solving problems; Anything else that piques my curiosity
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to collaborate on ...Voice Biometrics
+- 📫 How to reach me ...https://www.linkedin.com/in/tyagishivani/
