@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @this-is-shivani
-- 👀 I’m interested in ...Designing things; Solving problems; Anything else that piques my curiosity
-- 🌱 I’m currently learning ...life
-- 💞️ I’m looking to collaborate on ...freelancing
+- 👋 Hi, I’m Shivani Tyagi @this-is-shivani
+- 👀 I’m interested in ...Designing and developing things from scratch; Solving problems; Anything else that piques my curiosity
+- 🌱 I’m currently learning ...Computer Science Engineering
+- 💞️ I’m looking to collaborate on ...Freelancing
 - 📫 How to reach me ...https://www.linkedin.com/in/tyagishivani/
